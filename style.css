@@ -65,7 +65,7 @@ p {
 .button {
     color: white;
     text-decoration: none;
-    background: red;
+    background: #c5050c;
     border-radius: 50px;
     font-size: 0.9rem;
     text-transform: uppercase;
@@ -120,7 +120,7 @@ footer a.linkedin:hover {
 }
 
 footer a.handshake:hover {
-    color: #e92323;
+    color: #c5050c;
     transition: all 0.5s ease;
 }
 
